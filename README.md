@@ -4,7 +4,7 @@ This repository contains the insights and visual representation of the "Reliance
 ## Key Features: ##
 Revenue vs Previous Month:
 
-Current revenue: 120.16K
+####Current revenue####: 120.16K
 Growth compared to the previous month: +5.6%
 Profit vs Previous Month:
 
