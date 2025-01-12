@@ -27,4 +27,16 @@ This repository contains the insights and visual representation of the "Reliance
    - A treemap representing the number of transactions in states like WA (87K), CA (51K), and others.
 
 ---
+## Tools & Technologies Used:
 
+1. **Power BI**:
+Utilized for creating interactive and visually appealing dashboards to effectively represent key metrics and insights.
+
+2. **Power Query**:
+Used for efficient data cleaning, transformation, and preparation before integrating into the dashboard.
+
+3. **SQL**:
+Leveraged for querying, preprocessing, and organizing large datasets to ensure accurate analysis and reporting.
+
+4. **Microsoft Excel**:
+Employed for preliminary data exploration, manipulation, and validation to set the foundation for deeper analysis.
