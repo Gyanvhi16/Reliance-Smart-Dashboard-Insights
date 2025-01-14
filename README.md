@@ -27,6 +27,18 @@ This repository contains the insights and visual representation of the "Reliance
    - A treemap representing the number of transactions in states like WA (87K), CA (51K), and others.
 
 ---
+
+## Dashboard Features
+![Dashboard] (Dashboard Snapshort.png
+
+
+
+## Data Model
+<img src="https://github.com/Gyanvhi16/Reliance-Smart-Dashboard-Insights/blob/main/Data%20Modeling.png"  alt="Data Model Preview" width="500"/>
+
+
+
+
 ## Tools & Technologies Used:
 
 1. **Power BI**:
