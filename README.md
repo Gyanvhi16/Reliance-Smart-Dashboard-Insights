@@ -31,10 +31,23 @@ This repository contains the insights and visual representation of the "Reliance
 ## Dashboard Features
 ![Dashboard](https://github.com/Gyanvhi16/Reliance-Smart-Dashboard-Insights/blob/main/Dashboard%20Snapshort.png)
 
-
+---
 
 ## Data Model
 <img src="https://github.com/Gyanvhi16/Reliance-Smart-Dashboard-Insights/blob/main/Data%20Modeling.png"  alt="Data Model Preview" width="1000"/>
+
+---
+
+## Dataset
+The dataset used in this project includes fields such as:
+
+
+
+
+
+
+---
+
 
 
 
