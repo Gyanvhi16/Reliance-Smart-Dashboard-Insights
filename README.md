@@ -1,7 +1,7 @@
 # Reliance-Smart-Dashboard-Insights
 This repository contains the insights and visual representation of the "Reliance SMART" business dashboard. The dashboard highlights key metrics such as revenue, profit, returns, brand-wise performance, and regional distribution of revenue and transactions.
 
----
+
 
 ## Key Features:
 
@@ -26,17 +26,17 @@ This repository contains the insights and visual representation of the "Reliance
 6. **State-wise Transactions**:
    - A treemap representing the number of transactions in states like WA (87K), CA (51K), and others.
 
----
+
 
 ## Dashboard Features
 ![Dashboard](https://github.com/Gyanvhi16/Reliance-Smart-Dashboard-Insights/blob/main/Dashboard%20Snapshort.png)
 
----
+
 
 ## Data Model
 <img src="https://github.com/Gyanvhi16/Reliance-Smart-Dashboard-Insights/blob/main/Data%20Modeling.png"  alt="Data Model Preview" width="1000"/>
 
----
+
 
 ## Dataset
 The dataset used in this project includes fields such as:
@@ -46,7 +46,7 @@ The dataset used in this project includes fields such as:
 
 
 
----
+
 
 
 
