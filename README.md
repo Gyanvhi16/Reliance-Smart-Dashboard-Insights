@@ -39,7 +39,8 @@ This repository contains the insights and visual representation of the "Reliance
 
 
 ## Dataset
-The dataset used in this project includes fields such as:
+ For this project, the dataset has been sourced from Kaggle :
+ **Dataset Link** : [Movies Dataset](https://github.com/Gyanvhi16/Reliance-Smart-Dashboard-Insights/tree/main/Dataset)
 
 
 
@@ -61,7 +62,7 @@ Employed for preliminary data exploration, manipulation, and validation to set t
 
 
 
-### **Dashboard Overview**  
+## Dashboard Overview  
 
 - **Revenue Growth Analysis**: Tracks month-over-month improvement in total revenue and profit.  
 - **Product Brand Performance**: Detailed view of individual brand contributions to sales and profitability.  
@@ -70,7 +71,7 @@ Employed for preliminary data exploration, manipulation, and validation to set t
 - **Returns Performance**: Tracks the percentage change in product returns compared to the previous month.  
 
 
-### **Insights**  
+## Insights  
 1. **Revenue and Profit Growth**:  
    - Both revenue (**$120.16K**) and profit (**$71.68K**) exceeded monthly targets, reflecting strong financial performance.  
    - Revenue grew by **5.6%**, and profit by **5.61%**, indicating operational efficiency.  
@@ -91,7 +92,7 @@ Employed for preliminary data exploration, manipulation, and validation to set t
 
 
 
-### **Conclusions**  
+## Conclusions 
 - The company is on a positive trajectory, achieving month-over-month growth in both revenue and profit while reducing returns.  
 - Top-performing brands and states (e.g., **Hermanos** and **Washington**) significantly drive performance.  
 - Expansion opportunities exist in underperforming regions and states, as reflected by lower revenue contributions.  
