@@ -40,7 +40,7 @@ This repository contains the insights and visual representation of the "Reliance
 
 ## Dataset
  For this project, the dataset has been sourced from Kaggle :
- **Dataset Link** : [Movies Dataset](https://github.com/Gyanvhi16/Reliance-Smart-Dashboard-Insights/tree/main/Dataset)
+ **Dataset Link** : [Click Here](https://github.com/Gyanvhi16/Reliance-Smart-Dashboard-Insights/tree/main/Dataset)
 
 
 
